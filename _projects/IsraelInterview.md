@@ -4,7 +4,7 @@ title: Interview Video
 description: Interview video of Israel Tuttle
 img: assets/img/israelinterview.jpeg
 redirect: https://youtu.be/Ale5J9nzXRU
-importance: 1
+importance: 2
 category: projects
 ---
 
