@@ -3,7 +3,7 @@ layout: page
 title: Website Design
 description: Church Website
 img: assets/img/websiteproj/screenshot1.png
-importance: 3
+importance: 4
 category: projects
 ---
 
