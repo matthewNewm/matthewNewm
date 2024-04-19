@@ -14,7 +14,7 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-**Hi**
+**Hi** 👋
 
 
 I am Matthew Newman, a musician and sound engineer with a passion for creating extraordinary audio experiences. I thrive on exploring the latest technology to push the boundaries of creativity and innovation. My diverse skill set includes podcasting, logo design, photography, video production, and animation. Through my work, I aim to blend artistry with technical expertise to deliver impactful results.
