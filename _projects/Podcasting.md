@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Podcasting Project
-description: Interview video of Israel Tuttle
+description: Satire podcast made with Israel Tuttle
 img: assets/img/TrailBlazers.png
 redirect: https://open.spotify.com/show/4N9MDloC3vGfrdoYWNWzfJ
 importance: 4
