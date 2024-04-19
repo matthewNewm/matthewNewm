@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: Podcasting Project
+description: Interview video of Israel Tuttle
+img: assets/img/TrailBlazers.png
+redirect: https://open.spotify.com/show/4N9MDloC3vGfrdoYWNWzfJ
+importance: 4
+category: projects
 ---
 
 Every project has a beautiful feature showcase page.
