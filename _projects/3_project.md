@@ -5,7 +5,7 @@ description: Photos I have taken from various places and cameras.
 img: assets/img/waterfall.jpeg
 redirect: https://matthewn.passgallery.com/portfolio
 importance: 3
-category: fun
+category: projects
 ---
 
 Every project has a beautiful feature showcase page.
