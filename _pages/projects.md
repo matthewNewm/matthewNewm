@@ -6,7 +6,7 @@ description: A growing collection of things I have worked on.
 nav: true
 nav_order: 3
 display_categories: [projects]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
