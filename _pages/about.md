@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: matthew.jpg
+  image: matthew.png
   image_circular: true # crops the image to make it circular
   more_info: 
 
