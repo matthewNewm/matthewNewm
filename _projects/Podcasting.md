@@ -4,7 +4,7 @@ title: Podcasting Project
 description: Satire podcast made with Israel Tuttle
 img: assets/img/TrailBlazers.png
 redirect: https://open.spotify.com/show/4N9MDloC3vGfrdoYWNWzfJ
-importance: 4
+importance: 1
 category: projects
 ---
 
