@@ -20,16 +20,16 @@ social: false # includes social icons at the bottom of the page
 I am Matthew Newman, a musician and sound engineer with a passion for creating extraordinary audio experiences. I thrive on exploring the latest technology to push the boundaries of creativity and innovation. My diverse skill set includes podcasting, logo design, photography, video production, and animation. Through my work, I aim to blend artistry with technical expertise to deliver impactful results.
 
 
-In ministry in the church through creative arts, I believe in the power of storytelling to inspire, connect, and transform lives. Through my work, I strive to create meaningful experiences that resonate with audiences on a deep level. I embrace collaboration, innovation, and authenticity as essential ingredients for fostering creativity and making a positive impact in the world.
+I believe in the power of storytelling to inspire, connect, and transform lives. Through my work in ministry through creative arts, I strive to create meaningful experiences that resonate with audiences on a deep level. I embrace collaboration, innovation, and authenticity as essential ingredients for fostering creativity and making a positive impact in the world.
 
 
-In ministry and the creative arts within the context of the church community, I am guided by several core beliefs:
+**I am guided by several core beliefs:**
 
 
 **Purposeful Expression:** I believe in using creative mediums to express the timeless truths of faith in fresh and relevant ways. Whether through music, visual arts, or multimedia, my aim is to engage hearts and minds with the transformative message of love, hope, and redemption.
 
 
-**Collaborative Creativity:** I aim for a collaborative and approach to creativity within the church. Every individual possesses unique gifts and perspectives that contribute to the rich tapestry of our community's creative expression. By fostering an environment of openness and encouragement, we can unleash the full spectrum of God-given creativity.
+**Collaborative Creativity:** I aim for a collaborative approach to creativity within the church. Every individual possesses unique gifts and perspectives that contribute to the rich tapestry of our community's creative expression. By fostering an environment of openness and encouragement, we can unleash the full spectrum of God-given creativity.
 
 
 **Authentic Worship:** Authenticity is at the heart of worship. I strive to create spaces where people can encounter the presence of God in genuine and meaningful ways. Through artistry and innovation, we seek to inspire reverence, awe, and intimacy in our worship experiences, leading others into deeper connections with the divine.
