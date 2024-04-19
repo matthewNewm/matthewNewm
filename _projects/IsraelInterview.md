@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Photo Portfolio
-description: Photos I have taken from various places and cameras.
+title: Interview Video
+description: Interview video of Israel Tuttle
 img: assets/img/israelinterview.jpeg
 redirect: https://youtu.be/Ale5J9nzXRU
 importance: 1
