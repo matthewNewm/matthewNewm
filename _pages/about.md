@@ -20,7 +20,7 @@ social: false # includes social icons at the bottom of the page
 I am Matthew Newman, a musician and sound engineer with a passion for creating extraordinary audio experiences. I thrive on exploring the latest technology to push the boundaries of creativity and innovation. My diverse skill set includes podcasting, logo design, photography, video production, and animation. Through my work, I aim to blend artistry with technical expertise to deliver impactful results.
 
 
-I believe in the power of storytelling to inspire, connect, and transform lives. Through my work in ministry through creative arts, I strive to create meaningful experiences that resonate with audiences on a deep level. I embrace collaboration, innovation, and authenticity as essential ingredients for fostering creativity and making a positive impact in the world.
+I believe storytelling has the power to inspire, connect, and transform lives. Through my work in ministry through the creative arts, I strive to create meaningful experiences that resonate with audiences on a deep level. I embrace collaboration, innovation, and authenticity as essential ingredients for fostering creativity and making a positive impact in the world.
 
 
 **I am guided by several core beliefs:**
