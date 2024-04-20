@@ -41,4 +41,4 @@ I believe in the power of storytelling to inspire, connect, and transform lives.
 **Stewardship of Gifts:** Creativity is a gift from God, and I view it as a sacred responsibility to steward these gifts with excellence and integrity. Whether in music composition, visual design, or multimedia production, I seek to honor God and serve others by offering my best in all endeavors, continually growing and refining my skills for His glory.
 
 
-By anchoring my creative pursuits in these foundational principles, I endeavor to contribute meaningfully to the spiritual enrichment and cultural vitality of our church community and beyond. Through collaboration, innovation, and a deep reverence for the divine, I aspire to inspire others to encounter the beauty and truth of God's love through the creative arts.
+By anchoring my creative pursuits in these foundational principles, I endeavor to contribute meaningfully to the spiritual enrichment and cultural vitality of our church community and beyond. Through collaboration, innovation, and a deep reverence for God, I aspire to inspire others to encounter the beauty and truth of His love through creative arts.
