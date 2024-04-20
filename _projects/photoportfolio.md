@@ -3,7 +3,7 @@ layout: page
 title: Photo Portfolio
 description: Photos I have taken from various places and cameras.
 img: assets/img/waterfall.jpeg
-redirect: https://matthewn.passgallery.com/portfolio
+redirect: https://photos.newmanfamily.net
 importance: 3
 category: projects
 ---
