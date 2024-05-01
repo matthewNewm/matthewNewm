@@ -3,7 +3,7 @@ layout: page
 title: Lyric Video
 description: Lyric video of A Thousand Hallelujahs
 img: assets/img/lyricvid.jpeg
-redirect: https://youtu.be/0ZaMvr6npUM
+redirect: https://youtu.be/Ghv8oVkYYVc
 importance: 3
 category: projects
 ---
