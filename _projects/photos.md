@@ -16,7 +16,7 @@ category: projects
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/websiteproj/screenshot2.jpeg" title="screenshot" class="img-fluid rounded z-depth-1" %}
+        {% include photos.html folder="photos" %}
     </div>
 </div>
 
