@@ -1,16 +1,15 @@
 ---
 layout: page
-title: Photos
-description: Photos
+title: Photos1
+description: Photos1
 img: assets/img/websiteproj/screenshot1.jpeg
 importance: 4
 category: projects
 ---
-{% include image-gallery.html folder="assets/img/" %}
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/websiteproj/screenshot1.jpeg" title="screenshot" class="img-fluid rounded z-depth-1" %}
+        {% include image-gallery.html folder="assets/img/" %}
     </div>
 </div>
 
