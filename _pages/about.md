@@ -16,29 +16,28 @@ social: false # includes social icons at the bottom of the page
 ---
 **Hi** 👋
 
+I’m Matthew Newman, a musician, production specialist, and creative storyteller dedicated to using my gifts to glorify God and serve others. Whether behind a soundboard, building LED walls, or playing the violin, I thrive on blending artistry with technical expertise to create meaningful, impactful experiences that allow others to focus on the only one that matters, Him.  
 
-I am Matthew Newman, a musician and sound engineer with a passion for creating extraordinary audio experiences. I thrive on exploring the latest technology to push the boundaries of creativity and innovation. Through my work, I aim to blend artistry with technical expertise to deliver impactful results.
-
-
-I believe storytelling has the power to inspire, connect, and transform lives. Through my work in ministry through the creative arts, I strive to create meaningful experiences that resonate with audiences on a deep level.
-
+Through my work in para-church ministries and the church, I’ve seen how creativity can inspire, connect, and transform lives. My passion lies in crafting environments where people can worship God free from distractions, ensuring production serves as an invisible support that enhances, rather than detracts from, their focus on Him.  
 
 **I am guided by several core beliefs:**
 
+### Purposeful Expression  
+I believe creativity is a powerful tool to communicate timeless truths. Through music, storytelling, and production, I aim to present the message of God’s love, hope, and redemption in ways that are fresh, relevant, and transformative.  
 
-**Purposeful Expression:** I believe in using creative mediums to express the timeless truths of faith in fresh and relevant ways. Whether through music, visual arts, or multimedia, my aim is to engage hearts and minds with the transformative message of love, hope, and redemption.
+### Collaborative Creativity  
+I value the collaborative process of ministry and production, where individuals bring their unique God-given gifts to serve Him. Whether it’s a church service or an outreach event, I strive to create an environment that encourages others to contribute meaningfully and work together in honoring God.
 
+### Seamless Worship Environments  
+True worship happens when people can fully focus on God without distractions. My goal is to ensure all technical elements—lighting, sound, visuals, and more—blend seamlessly into the background. When done well, production becomes invisible, creating a distraction-free atmosphere where worshipers can connect with God in meaningful and undisturbed ways.  
 
-**Collaborative Creativity:** I aim for a collaborative approach to creativity within the church. Every individual possesses unique gifts and perspectives that contribute to the rich tapestry of our community's creative expression. By fostering an environment of openness and encouragement, we can unleash the full spectrum of God-given creativity.
+### Authentic Worship  
+Worship is about authenticity, and I strive to create spaces where people can encounter God in genuine and meaningful ways. Whether through sound engineering, visual elements, or live music, my goal is to inspire reverence, awe, and intimacy in worship, pointing hearts toward Christ.  
 
+### Community Engagement  
+I believe the creative arts are a bridge between the church and the world. Whether working in production, serving at CIY, or sharing in my local church, I seek to use my talents to engage with the broader community, building connections that reflect God’s love and grace.  
 
-**Authentic Worship:** Authenticity is at the heart of worship. I strive to create spaces where people can encounter the presence of God in genuine and meaningful ways. Through artistry and innovation, we seek to inspire reverence, awe, and intimacy in our worship experiences, leading others into deeper connections with the divine.
+### Stewardship of Gifts  
+Creativity is a gift from God, and I take seriously the responsibility to steward it well. By continually growing and refining my skills in music, production, and storytelling, I aim to honor Him and serve others with excellence and integrity in every project.  
 
-
-**Community Engagement:** The creative arts can bridge gaps and build connections within and beyond the church walls. I am committed to using my talents and resources to serve the broader community through ministry initiatives and outreach efforts.
-
-
-**Stewardship of Gifts:** Creativity is a gift from God, and I view it as a sacred responsibility to steward these gifts with excellence and integrity. Whether in music composition, visual design, or multimedia production, I seek to honor God and serve others by offering my best in all endeavors, continually growing and refining my skills for His glory.
-
-
-By anchoring my creative pursuits in these foundational principles, I strive to contribute meaningfully to the spiritual enrichment and cultural vitality of our church community and beyond. Through collaboration, innovation, and a deep reverence for God, I aspire to inspire others to encounter the beauty and truth of His love through creative arts.
+Through these guiding principles, I strive to contribute to the spiritual growth and cultural vitality of the communities I serve. By anchoring my work in faith and collaboration, I hope to inspire others to encounter the beauty and truth of God’s love through the creative arts while ensuring production remains a supportive and unnoticed foundation for worship.  
