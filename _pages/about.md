@@ -17,10 +17,10 @@ social: false # includes social icons at the bottom of the page
 **Hi** 👋
 
 
-I am Matthew Newman, a musician and sound engineer with a passion for creating extraordinary audio experiences. I thrive on exploring the latest technology to push the boundaries of creativity and innovation. My diverse skill set includes podcasting, logo design, photography, video production, and animation. Through my work, I aim to blend artistry with technical expertise to deliver impactful results.
+I am Matthew Newman, a musician and sound engineer with a passion for creating extraordinary audio experiences. I thrive on exploring the latest technology to push the boundaries of creativity and innovation. Through my work, I aim to blend artistry with technical expertise to deliver impactful results.
 
 
-I believe storytelling has the power to inspire, connect, and transform lives. Through my work in ministry through the creative arts, I strive to create meaningful experiences that resonate with audiences on a deep level. I embrace collaboration, innovation, and authenticity as essential ingredients for fostering creativity and making a positive impact in the world.
+I believe storytelling has the power to inspire, connect, and transform lives. Through my work in ministry through the creative arts, I strive to create meaningful experiences that resonate with audiences on a deep level.
 
 
 **I am guided by several core beliefs:**
@@ -35,10 +35,10 @@ I believe storytelling has the power to inspire, connect, and transform lives. T
 **Authentic Worship:** Authenticity is at the heart of worship. I strive to create spaces where people can encounter the presence of God in genuine and meaningful ways. Through artistry and innovation, we seek to inspire reverence, awe, and intimacy in our worship experiences, leading others into deeper connections with the divine.
 
 
-**Community Engagement:** The creative arts have the power to bridge divides and build connections within and beyond the church walls. I am committed to using my talents and resources to serve the broader community, address social issues, foster empathy, and promote reconciliation through creative initiatives and outreach efforts.
+**Community Engagement:** The creative arts can bridge gaps and build connections within and beyond the church walls. I am committed to using my talents and resources to serve the broader community through ministry initiatives and outreach efforts.
 
 
 **Stewardship of Gifts:** Creativity is a gift from God, and I view it as a sacred responsibility to steward these gifts with excellence and integrity. Whether in music composition, visual design, or multimedia production, I seek to honor God and serve others by offering my best in all endeavors, continually growing and refining my skills for His glory.
 
 
-By anchoring my creative pursuits in these foundational principles, I endeavor to contribute meaningfully to the spiritual enrichment and cultural vitality of our church community and beyond. Through collaboration, innovation, and a deep reverence for God, I aspire to inspire others to encounter the beauty and truth of His love through creative arts.
+By anchoring my creative pursuits in these foundational principles, I strive to contribute meaningfully to the spiritual enrichment and cultural vitality of our church community and beyond. Through collaboration, innovation, and a deep reverence for God, I aspire to inspire others to encounter the beauty and truth of His love through creative arts.
