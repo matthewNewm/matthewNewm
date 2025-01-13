@@ -8,7 +8,7 @@ middle_name: J.
 last_name: Newman
 email: matthew@newmanfamily.net
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Just a little website of things I've done.
 footer_text:
 keywords: # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
