@@ -3,7 +3,7 @@ layout: page
 title: Songs
 description: Songs I have worked on
 img: assets/img/ThousandHallelujahs.png
-redirect: https://open.spotify.com/show/4N9MDloC3vGfrdoYWNWzfJ
+redirect: https://open.spotify.com/artist/2BV7qoEhhnlXS7FLAE208U
 importance: 1
 category: projects
 ---
