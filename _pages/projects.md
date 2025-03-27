@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of projects I have worked on for class assignments.
+description: A growing collection of projects I have worked on for class assignments. For questions, email valleybot@outlook.com
 nav: true
 nav_order: 3
 display_categories: [projects]
